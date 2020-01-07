@@ -1,2 +1,2 @@
 # Hello-World
-Just anther Repository
+This is Jayant Ramdas learning about GITHUB
